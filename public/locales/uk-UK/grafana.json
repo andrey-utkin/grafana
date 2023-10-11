@@ -1,36 +1,36 @@
 {
-  "_comment": "This file is the source of truth for English strings. Edit this to change plurals and other phrases for the UI.",
+  "_comment": "Це український переклад рядків тексту з інтерфейсу Grafana.",
   "access-control": {
     "add-permission": {
-      "role-label": "Role",
-      "serviceaccount-label": "Service Account",
-      "team-label": "Team",
-      "title": "Add permission for",
-      "user-label": "User"
+      "role-label": "Роль",
+      "serviceaccount-label": "Службовий обліковий запис",
+      "team-label": "Команда",
+      "title": "Додати дозвіл для",
+      "user-label": "Користувач"
     },
     "add-permissions": {
-      "save": "Save"
+      "save": "Зберегти"
     },
     "permission-list": {
-      "permission": "Permission"
+      "permission": "Дозвіл"
     },
     "permissions": {
-      "add-label": "Add a permission",
-      "no-permissions": "There are no permissions",
-      "permissions-change-warning": "This will change permissions for this folder and all its descendants. In total, this will affect:",
-      "role": "Role",
-      "serviceaccount": "Service Account",
-      "team": "Team",
-      "title": "Permissions",
-      "user": "User"
+      "add-label": "Додати дозвіл",
+      "no-permissions": "Немає дозволів",
+      "permissions-change-warning": "Це змінить дозволи для цієї папки і всього її змісту. Це вплине на:",
+      "role": "Роль",
+      "serviceaccount": "Службовий обліковий запис",
+      "team": "Команда",
+      "title": "Дозволи",
+      "user": "Користувач"
     }
   },
   "browse-dashboards": {
     "action": {
-      "cancel-button": "Cancel",
-      "cannot-move-folders": "Folders can not be moved",
-      "delete-button": "Delete",
-      "delete-modal-invalid-text": "One or more folders contain library panels or alert rules. Delete these first in order to proceed.",
+      "cancel-button": "Скасувати",
+      "cannot-move-folders": "Неможливо перемістити папки",
+      "delete-button": "Видалити",
+      "delete-modal-invalid-text": "Папка (або декілька) містить бібліотечні панелі або правила тривоги. Видалить їх перш ніж продовжити.",
       "delete-modal-invalid-title": "Cannot delete folder",
       "delete-modal-text": "This action will delete the following content:",
       "delete-modal-title": "Delete",
